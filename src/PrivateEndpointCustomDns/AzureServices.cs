@@ -4,7 +4,6 @@ using Azure.Containers.ContainerRegistry;
 using Azure.Identity;
 using Azure.Core;
 using Azure.ResourceManager;
-using Azure.ResourceManager.Resources;
 
 namespace PrivateEndpointCustomDns
 {
